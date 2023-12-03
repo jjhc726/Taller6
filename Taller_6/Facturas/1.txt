@@ -1,0 +1,16 @@
+
+--------------------------------------------------------------
+	FACTURA(ID Factura: 1)
+
+Cliente: Juan
+Dirección cliente:Calle 10
+
+
+combo corral ->22050.0 ->1300 cal
+
+	Calorías totales: 1300
+	Precio neto: 22050.0
+	Precio tras descuento (0,0%) :22050.0
+	IVA(19%): 4189.5
+	Precio total: 26239.5
+--------------------------------------------------------------
